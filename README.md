@@ -1,6 +1,8 @@
 # dark-web-project- 
 Name : UMBRA
-Dark web threat actor de-anonymization prototype with files
+TO RUN THIS FILE USE ELECTRON AND DOCKER 
+I HAVE ALSO GIVEN THE DATA SET OF CSV AND JSON SO THAT YOU TEST THE PROTOTYPE 
+(Dark web threat actor de-anonymization prototype with files)
 This was a problem statement of SIH 2026 
 
 • Background The dark web has become a preferred operating space for threat actors in the modern age, mainly because it lets them hide their identity behind Tor hidden services, which makes attribution of threat actors operating on darkweb the main challenge for any investigation. Such threat actors carry out a wide range of unlawful activities such as drugs and arms sale, stolen data and hacking services, money laundering, terror financing, etc. The objective of this problem statement is to build a system for the deanonymization of dark web threat actors and link them to suspect real-world entities.
