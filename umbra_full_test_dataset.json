@@ -1,0 +1,3117 @@
+[
+  {
+    "handle": "SilentReaper",
+    "category": "Data Theft",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Auctioning a healthcare-provider record dump",
+    "firstSeenDaysAgo": 645,
+    "lastSeenDaysAgo": 22,
+    "reliability": "C",
+    "confidence": 95,
+    "pgp": "7A90 32A4 ED33 6FA5",
+    "wallet": "0x74ee3d420ed2ef1efb31d5d287d3b50498d37b2d",
+    "walletChain": "ETH",
+    "ip": "112.163.218.220"
+  },
+  {
+    "handle": "OnyxWarden57",
+    "category": "Initial Access",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Selling RDP/VPN access to compromised networks",
+    "firstSeenDaysAgo": 457,
+    "lastSeenDaysAgo": 33,
+    "reliability": "B",
+    "confidence": 73,
+    "pgp": "E980 A81C BBBD 4A58",
+    "wallet": "0x2d680bc26bfb0d95dc39672e2870f8eeec6c2098",
+    "walletChain": "ETH",
+    "domain": "onyxwarden57442.store"
+  },
+  {
+    "handle": "GhostTrade50",
+    "category": "Malware",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Custom loader build service, per-sample pricing observed",
+    "firstSeenDaysAgo": 520,
+    "lastSeenDaysAgo": 2,
+    "reliability": "B",
+    "confidence": 75,
+    "pgp": "02A0 F754 7336 2F11",
+    "domain": "ghosttrade50870.info"
+  },
+  {
+    "handle": "DuskForge46",
+    "category": "Data Theft",
+    "riskLevel": "Critical",
+    "status": "CLOSED",
+    "note": "Selling exfiltrated corporate databases on forum",
+    "firstSeenDaysAgo": 139,
+    "lastSeenDaysAgo": 15,
+    "reliability": "A",
+    "confidence": 86,
+    "ip": "93.191.15.140"
+  },
+  {
+    "handle": "RogueNode",
+    "category": "Data Theft",
+    "riskLevel": "Low",
+    "status": "DORMANT",
+    "note": "Advertises access to breached customer records",
+    "firstSeenDaysAgo": 652,
+    "lastSeenDaysAgo": 34,
+    "reliability": "C",
+    "confidence": 91,
+    "domain": "roguenode325.cc"
+  },
+  {
+    "handle": "OnyxDrift49",
+    "category": "Initial Access",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Auctioning domain-admin access to a mid-size manufacturer",
+    "firstSeenDaysAgo": 774,
+    "lastSeenDaysAgo": 19,
+    "reliability": "B",
+    "confidence": 86,
+    "wallet": "4yGdUBtC3ehbyVTdNGongY6812rdafsYTj22CqZt9Bw1wY26htUgAgaHLCYaA4mRotAJwJE5wWrVJUtRJEBhE8UmXzVVfB6",
+    "walletChain": "XMR",
+    "domain": "onyxdrift49716.io"
+  },
+  {
+    "handle": "HollowKey",
+    "category": "Financial Crime",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Card-fraud vendor profile cross-referenced with breach corpus",
+    "firstSeenDaysAgo": 360,
+    "lastSeenDaysAgo": 46,
+    "reliability": "C",
+    "confidence": 86,
+    "pgp": "56E7 BBDC 64E4 D8A3",
+    "wallet": "0x8487a4389ecc0ada3f6dba1c50884adffa01738a",
+    "walletChain": "ETH",
+    "domain": "hollowkey215.net"
+  },
+  {
+    "handle": "RogueWarden18",
+    "category": "Initial Access",
+    "riskLevel": "High",
+    "status": "CLOSED",
+    "note": "Auctioning domain-admin access to a mid-size manufacturer",
+    "firstSeenDaysAgo": 741,
+    "lastSeenDaysAgo": 2,
+    "reliability": "C",
+    "confidence": 63,
+    "pgp": "C353 6BC1 E105 46CC",
+    "domain": "roguewarden18267.cc",
+    "ip": "120.202.163.221"
+  },
+  {
+    "handle": "FerroByte25",
+    "category": "Fraud",
+    "riskLevel": "Critical",
+    "status": "DORMANT",
+    "note": "Running a fake-vendor exit-scam pattern",
+    "firstSeenDaysAgo": 677,
+    "lastSeenDaysAgo": 12,
+    "reliability": "C",
+    "confidence": 83,
+    "pgp": "7EB4 D0AF D1A3 6FC3",
+    "wallet": "bc1qGWEWQcWpynPgx3RSyd2A0F4Dsbwxf9ujXj",
+    "walletChain": "BTC",
+    "domain": "ferrobyte25506.info"
+  },
+  {
+    "handle": "ShadowRunner53",
+    "category": "Malware",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Distributing a loader advertised as FUD (fully undetected)",
+    "firstSeenDaysAgo": 794,
+    "lastSeenDaysAgo": 28,
+    "reliability": "A",
+    "confidence": 70,
+    "domain": "shadowrunner53670.xyz",
+    "ip": "177.203.159.142"
+  },
+  {
+    "handle": "NullLedger92",
+    "category": "Fraud",
+    "riskLevel": "Medium",
+    "status": "UNDER INVESTIGATION",
+    "note": "Refund-fraud tutorial and support-chat access advertised",
+    "firstSeenDaysAgo": 788,
+    "lastSeenDaysAgo": 22,
+    "reliability": "B",
+    "confidence": 91
+  },
+  {
+    "handle": "SlateSable",
+    "category": "Data Theft",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Selling exfiltrated corporate databases on forum",
+    "firstSeenDaysAgo": 808,
+    "lastSeenDaysAgo": 22,
+    "reliability": "B",
+    "confidence": 77,
+    "domain": "slatesable424.net",
+    "ip": "50.150.27.30"
+  },
+  {
+    "handle": "EmberShard86",
+    "category": "Fraud",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Selling fullz (complete identity packages) with refund guarantee",
+    "firstSeenDaysAgo": 617,
+    "lastSeenDaysAgo": 37,
+    "reliability": "B",
+    "confidence": 61,
+    "pgp": "8D97 431F E4AF AB11",
+    "wallet": "4G3EKQJdFNAgzVN3YWVDeJJt2Q8LpEZ7NdSJmp53DoJo3XN7BAyyci2aoNxUhpgw4GxRxGKvQKUuAjTZNojnW98E4Q7Usiq",
+    "walletChain": "XMR",
+    "domain": "embershard86472.xyz"
+  },
+  {
+    "handle": "TalonCircuit12",
+    "category": "Other",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Newly observed handle, category pending review",
+    "firstSeenDaysAgo": 178,
+    "lastSeenDaysAgo": 23,
+    "reliability": "B",
+    "confidence": 71,
+    "wallet": "0x8bbd50e66e8a4d1475a6a3a684d8c9595f776dd5",
+    "walletChain": "ETH"
+  },
+  {
+    "handle": "AshMarket",
+    "category": "Other",
+    "riskLevel": "High",
+    "status": "DORMANT",
+    "note": "Cross-posts in multiple unrelated sub-forums, unclear specialization",
+    "firstSeenDaysAgo": 272,
+    "lastSeenDaysAgo": 46,
+    "reliability": "A",
+    "confidence": 86,
+    "pgp": "8A62 0B26 92F1 726D",
+    "domain": "ashmarket622.cc",
+    "ip": "144.13.97.14"
+  },
+  {
+    "handle": "CipherDrift91",
+    "category": "Financial Crime",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Running an escrow-fraud scheme flagged by two independent buyers",
+    "firstSeenDaysAgo": 413,
+    "lastSeenDaysAgo": 4,
+    "reliability": "B",
+    "confidence": 68,
+    "pgp": "743A F32C 893B FF37",
+    "domain": "cipherdrift91467.io",
+    "ip": "67.253.159.68"
+  },
+  {
+    "handle": "ShadowShard15",
+    "category": "Fraud",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Multiple buyer complaints about non-delivery",
+    "firstSeenDaysAgo": 539,
+    "lastSeenDaysAgo": 38,
+    "reliability": "D",
+    "confidence": 61,
+    "pgp": "E4F3 E549 A918 B472",
+    "domain": "shadowshard15589.shop",
+    "ip": "84.218.137.188"
+  },
+  {
+    "handle": "RavenAnchor",
+    "category": "Other",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "General-purpose vendor profile, category unclear",
+    "firstSeenDaysAgo": 154,
+    "lastSeenDaysAgo": 31,
+    "reliability": "C",
+    "confidence": 74,
+    "pgp": "EDA1 2889 5AB4 D83D",
+    "domain": "ravenanchor474.shop"
+  },
+  {
+    "handle": "CipherCircuit",
+    "category": "Data Theft",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Posted sample rows from an alleged SaaS customer breach",
+    "firstSeenDaysAgo": 502,
+    "lastSeenDaysAgo": 38,
+    "reliability": "B",
+    "confidence": 61
+  },
+  {
+    "handle": "EmberProxy",
+    "category": "Other",
+    "riskLevel": "Medium",
+    "status": "CLOSED",
+    "note": "Miscellaneous forum activity, still being triaged",
+    "firstSeenDaysAgo": 228,
+    "lastSeenDaysAgo": 29,
+    "reliability": "B",
+    "confidence": 78,
+    "domain": "emberproxy1.biz"
+  },
+  {
+    "handle": "SilentBishop73",
+    "category": "Fraud",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Synthetic-identity document kit vendor, community-vetted with mixed reviews",
+    "firstSeenDaysAgo": 399,
+    "lastSeenDaysAgo": 39,
+    "reliability": "C",
+    "confidence": 93
+  },
+  {
+    "handle": "PaleShard13",
+    "category": "Data Theft",
+    "riskLevel": "Medium",
+    "status": "UNDER INVESTIGATION",
+    "note": "Auctioning a healthcare-provider record dump",
+    "firstSeenDaysAgo": 798,
+    "lastSeenDaysAgo": 10,
+    "reliability": "C",
+    "confidence": 87,
+    "domain": "paleshard135.info",
+    "ip": "109.10.227.156"
+  },
+  {
+    "handle": "StaticKey",
+    "category": "Fraud",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Selling fullz (complete identity packages) with refund guarantee",
+    "firstSeenDaysAgo": 51,
+    "lastSeenDaysAgo": 29,
+    "reliability": "B",
+    "confidence": 73,
+    "pgp": "62E7 DFB2 5F5B BADA",
+    "wallet": "0xf4d112415cc5ee6dedcdf2cf62d83806fe9c549b",
+    "walletChain": "ETH"
+  },
+  {
+    "handle": "AshAnchor66",
+    "category": "Other",
+    "riskLevel": "Critical",
+    "status": "CLOSED",
+    "note": "Newly observed handle, category pending review",
+    "firstSeenDaysAgo": 119,
+    "lastSeenDaysAgo": 1,
+    "reliability": "B",
+    "confidence": 63,
+    "pgp": "4A87 A939 DB4A 6587",
+    "domain": "ashanchor66570.info"
+  },
+  {
+    "handle": "HollowFox",
+    "category": "Financial Crime",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Advertising bulk stolen card dumps with 'live rate' guarantee",
+    "firstSeenDaysAgo": 300,
+    "lastSeenDaysAgo": 20,
+    "reliability": "A",
+    "confidence": 95,
+    "domain": "hollowfox666.info",
+    "ip": "178.162.28.169"
+  },
+  {
+    "handle": "PaleRoot62",
+    "category": "Financial Crime",
+    "riskLevel": "High",
+    "status": "CLOSED",
+    "note": "Money-mule recruitment thread traced back to this handle",
+    "firstSeenDaysAgo": 302,
+    "lastSeenDaysAgo": 31,
+    "reliability": "B",
+    "confidence": 67,
+    "domain": "paleroot6215.store",
+    "ip": "193.42.101.64"
+  },
+  {
+    "handle": "QuartzTrade56",
+    "category": "Other",
+    "riskLevel": "Medium",
+    "status": "UNDER INVESTIGATION",
+    "note": "Miscellaneous forum activity, still being triaged",
+    "firstSeenDaysAgo": 587,
+    "lastSeenDaysAgo": 20,
+    "reliability": "D",
+    "confidence": 95,
+    "domain": "quartztrade56596.io"
+  },
+  {
+    "handle": "RustByte15",
+    "category": "Fraud",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Refund-fraud tutorial and support-chat access advertised",
+    "firstSeenDaysAgo": 367,
+    "lastSeenDaysAgo": 40,
+    "reliability": "A",
+    "confidence": 57,
+    "ip": "90.136.194.162"
+  },
+  {
+    "handle": "HollowMarket34",
+    "category": "Other",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "General-purpose vendor profile, category unclear",
+    "firstSeenDaysAgo": 57,
+    "lastSeenDaysAgo": 10,
+    "reliability": "C",
+    "confidence": 91,
+    "wallet": "4o5ibiTFtQyLKUHJwDDCeKoFo2G4HeyLw8vrYGvPYuijB1X825iERBY1xDr3mLRqs5pqsmaUTfL6MPsvqxqDpiqTsyupDNL",
+    "walletChain": "XMR",
+    "domain": "hollowmarket34447.info",
+    "ip": "181.207.87.220"
+  },
+  {
+    "handle": "SlateRelay",
+    "category": "Initial Access",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Auctioning domain-admin access to a mid-size manufacturer",
+    "firstSeenDaysAgo": 648,
+    "lastSeenDaysAgo": 46,
+    "reliability": "A",
+    "confidence": 94,
+    "pgp": "266F 14F3 D3B3 439F",
+    "domain": "slaterelay483.io",
+    "ip": "184.160.28.109"
+  },
+  {
+    "handle": "AshSignal",
+    "category": "Other",
+    "riskLevel": "Critical",
+    "status": "DORMANT",
+    "note": "Cross-posts in multiple unrelated sub-forums, unclear specialization",
+    "firstSeenDaysAgo": 555,
+    "lastSeenDaysAgo": 11,
+    "reliability": "B",
+    "confidence": 66,
+    "pgp": "91B7 E6F8 0049 1991",
+    "domain": "ashsignal287.store",
+    "ip": "193.249.146.18"
+  },
+  {
+    "handle": "SaltCache48",
+    "category": "Other",
+    "riskLevel": "Critical",
+    "status": "DORMANT",
+    "note": "Newly observed handle, category pending review",
+    "firstSeenDaysAgo": 498,
+    "lastSeenDaysAgo": 44,
+    "reliability": "A",
+    "confidence": 77,
+    "pgp": "E42E F024 B146 6A3E",
+    "domain": "saltcache48292.io"
+  },
+  {
+    "handle": "OnyxMarket",
+    "category": "Malware",
+    "riskLevel": "Medium",
+    "status": "DORMANT",
+    "note": "Botnet rental listing, DDoS and spam modules advertised",
+    "firstSeenDaysAgo": 819,
+    "lastSeenDaysAgo": 14,
+    "reliability": "A",
+    "confidence": 72,
+    "pgp": "38A7 04A9 9252 3F90",
+    "wallet": "0xa409518df0234a3afe8c815cf3d82dbd071e82fa",
+    "walletChain": "ETH",
+    "domain": "onyxmarket23.io",
+    "ip": "128.206.171.252"
+  },
+  {
+    "handle": "FenNode94",
+    "category": "Data Theft",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Posted sample rows from an alleged SaaS customer breach",
+    "firstSeenDaysAgo": 680,
+    "lastSeenDaysAgo": 33,
+    "reliability": "C",
+    "confidence": 70,
+    "pgp": "1B7C E271 0DC2 E557",
+    "wallet": "bc1qATptjLLbx62q5ST9FCUgXXyPaNWnczE890",
+    "walletChain": "BTC",
+    "ip": "172.214.173.132"
+  },
+  {
+    "handle": "RogueSignal74",
+    "category": "Other",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Cross-posts in multiple unrelated sub-forums, unclear specialization",
+    "firstSeenDaysAgo": 802,
+    "lastSeenDaysAgo": 43,
+    "reliability": "A",
+    "confidence": 78,
+    "pgp": "3B3F A0EA E53C 496D",
+    "domain": "roguesignal74259.io",
+    "ip": "53.219.246.45"
+  },
+  {
+    "handle": "FenSable47",
+    "category": "Data Theft",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Advertises access to breached customer records",
+    "firstSeenDaysAgo": 398,
+    "lastSeenDaysAgo": 30,
+    "reliability": "A",
+    "confidence": 95,
+    "domain": "fensable47818.shop"
+  },
+  {
+    "handle": "WraithMarket27",
+    "category": "Other",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Newly observed handle, category pending review",
+    "firstSeenDaysAgo": 549,
+    "lastSeenDaysAgo": 13,
+    "reliability": "D",
+    "confidence": 74,
+    "domain": "wraithmarket27193.info"
+  },
+  {
+    "handle": "VortexProxy26",
+    "category": "Initial Access",
+    "riskLevel": "Medium",
+    "status": "DORMANT",
+    "note": "VPN appliance exploit access listed, unpatched CVE referenced",
+    "firstSeenDaysAgo": 189,
+    "lastSeenDaysAgo": 31,
+    "reliability": "A",
+    "confidence": 69,
+    "pgp": "E161 9FE3 DC23 9C7B",
+    "wallet": "bc1qc2gAg34Zm0Ke00mbsdTw6vz7pqcXGg369u",
+    "walletChain": "BTC",
+    "domain": "vortexproxy26524.store"
+  },
+  {
+    "handle": "TalonLoop23",
+    "category": "Fraud",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Identity-fraud kit vendor, escrow disputed twice",
+    "firstSeenDaysAgo": 389,
+    "lastSeenDaysAgo": 54,
+    "reliability": "D",
+    "confidence": 67,
+    "wallet": "bc1qCE7hUTmddwtWZ236b6cK4Pssv8aY0LnpFK",
+    "walletChain": "BTC",
+    "ip": "83.67.169.253"
+  },
+  {
+    "handle": "EmberSpindle93",
+    "category": "Data Theft",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling scraped credential lists with claimed 40% hit rate",
+    "firstSeenDaysAgo": 64,
+    "lastSeenDaysAgo": 19,
+    "reliability": "A",
+    "confidence": 84,
+    "pgp": "3693 8D2F A994 129D",
+    "wallet": "bc1qLdD02nd2KYn7hzCYuNpDSJf3qYNFQzNzPv",
+    "walletChain": "BTC",
+    "domain": "emberspindle93667.io"
+  },
+  {
+    "handle": "VortexSignal",
+    "category": "Malware",
+    "riskLevel": "Critical",
+    "status": "DORMANT",
+    "note": "Vendor of a commodity stealer with active support channel",
+    "firstSeenDaysAgo": 685,
+    "lastSeenDaysAgo": 22,
+    "reliability": "D",
+    "confidence": 59,
+    "domain": "vortexsignal532.cc"
+  },
+  {
+    "handle": "QuartzTrade76",
+    "category": "Fraud",
+    "riskLevel": "Critical",
+    "status": "CLOSED",
+    "note": "Identity-fraud kit vendor, escrow disputed twice",
+    "firstSeenDaysAgo": 255,
+    "lastSeenDaysAgo": 40,
+    "reliability": "E",
+    "confidence": 74,
+    "wallet": "47e1Y25uHXbHetei93xKw2rKone5a2PkyFNyp35d7vesRMA43GiKSaJA1DL3qWRK7Q9LeXvW2NFFRNRAkqn44872cwVMF3Y",
+    "walletChain": "XMR"
+  },
+  {
+    "handle": "SaltForge",
+    "category": "Initial Access",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Advertising footholds into corporate environments",
+    "firstSeenDaysAgo": 221,
+    "lastSeenDaysAgo": 5,
+    "reliability": "B",
+    "confidence": 69,
+    "wallet": "0xdee189218ea2cdad2383147aa7880958f8e2488c",
+    "walletChain": "ETH",
+    "domain": "saltforge401.store"
+  },
+  {
+    "handle": "ShadowWarden61",
+    "category": "Financial Crime",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Suspected of laundering proceeds through mixing services",
+    "firstSeenDaysAgo": 725,
+    "lastSeenDaysAgo": 32,
+    "reliability": "D",
+    "confidence": 80,
+    "wallet": "bc1qEYjpdrqxKxEWyVNGmdbKuaz0qXYCPuV3Kc",
+    "walletChain": "BTC",
+    "domain": "shadowwarden61382.info",
+    "ip": "70.9.111.218"
+  },
+  {
+    "handle": "CipherRelay70",
+    "category": "Initial Access",
+    "riskLevel": "Critical",
+    "status": "CLOSED",
+    "note": "Selling access to a compromised MSP with downstream clients",
+    "firstSeenDaysAgo": 383,
+    "lastSeenDaysAgo": 20,
+    "reliability": "B",
+    "confidence": 81,
+    "pgp": "BB96 DF1F A62C 589E",
+    "wallet": "0x86d8164022e5416aea1a1ffea9bf203c5664e2f8",
+    "walletChain": "ETH",
+    "domain": "cipherrelay70127.info",
+    "ip": "75.60.166.148"
+  },
+  {
+    "handle": "HollowWarden33",
+    "category": "Initial Access",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Auctioning domain-admin access to a mid-size manufacturer",
+    "firstSeenDaysAgo": 659,
+    "lastSeenDaysAgo": 40,
+    "reliability": "B",
+    "confidence": 69,
+    "pgp": "86B8 C31E BCE3 F48C",
+    "wallet": "bc1qba0cAYjEp9MpXE2WbNrKxTJWNwD5YzsCAz",
+    "walletChain": "BTC",
+    "domain": "hollowwarden33586.xyz"
+  },
+  {
+    "handle": "QuartzSignal89",
+    "category": "Malware",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Botnet rental listing, DDoS and spam modules advertised",
+    "firstSeenDaysAgo": 383,
+    "lastSeenDaysAgo": 31,
+    "reliability": "A",
+    "confidence": 71,
+    "pgp": "64EA 635C 78EC C081",
+    "ip": "111.210.43.252"
+  },
+  {
+    "handle": "CipherBishop",
+    "category": "Financial Crime",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Card-fraud vendor profile cross-referenced with breach corpus",
+    "firstSeenDaysAgo": 714,
+    "lastSeenDaysAgo": 48,
+    "reliability": "C",
+    "confidence": 64,
+    "pgp": "F47F 492D 549D C46C",
+    "wallet": "bc1qs54YqLqU22AynNmwn8zxFJWbaGCevJpxHf",
+    "walletChain": "BTC",
+    "domain": "cipherbishop72.xyz",
+    "ip": "89.23.24.116"
+  },
+  {
+    "handle": "VortexCircuit39",
+    "category": "Other",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Cross-posts in multiple unrelated sub-forums, unclear specialization",
+    "firstSeenDaysAgo": 776,
+    "lastSeenDaysAgo": 6,
+    "reliability": "D",
+    "confidence": 63,
+    "domain": "vortexcircuit39993.biz",
+    "ip": "74.17.81.229"
+  },
+  {
+    "handle": "EmberNode76",
+    "category": "Data Theft",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Linked to a reported data leak from a mid-size retailer",
+    "firstSeenDaysAgo": 273,
+    "lastSeenDaysAgo": 7,
+    "reliability": "B",
+    "confidence": 70,
+    "domain": "embernode76581.biz",
+    "ip": "181.5.14.88"
+  },
+  {
+    "handle": "HollowTrade",
+    "category": "Initial Access",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Selling access to a compromised MSP with downstream clients",
+    "firstSeenDaysAgo": 646,
+    "lastSeenDaysAgo": 10,
+    "reliability": "B",
+    "confidence": 85,
+    "pgp": "0C98 9C91 7E50 AD74",
+    "domain": "hollowtrade695.shop"
+  },
+  {
+    "handle": "AshVault55",
+    "category": "Malware",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Botnet rental listing, DDoS and spam modules advertised",
+    "firstSeenDaysAgo": 787,
+    "lastSeenDaysAgo": 55,
+    "reliability": "A",
+    "confidence": 63,
+    "wallet": "0xc168d156f4c273faf2185838fba54a6a654c631a",
+    "walletChain": "ETH",
+    "domain": "ashvault5572.net"
+  },
+  {
+    "handle": "PaleMarket97",
+    "category": "Malware",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling a crypter service bundled with a RAT",
+    "firstSeenDaysAgo": 306,
+    "lastSeenDaysAgo": 15,
+    "reliability": "D",
+    "confidence": 92,
+    "pgp": "5F1D 7831 75F2 4F58",
+    "ip": "177.201.214.121"
+  },
+  {
+    "handle": "VellumTrade13",
+    "category": "Initial Access",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Auctioning domain-admin access to a mid-size manufacturer",
+    "firstSeenDaysAgo": 835,
+    "lastSeenDaysAgo": 53,
+    "reliability": "B",
+    "confidence": 75,
+    "wallet": "4o69J8WzzkknBRHFupTStAatBd2jwgsC1aozn9noLAhA2pK9SBaFWm2syktfhmQ3R4yi8baejcV1L8M8Wb4u7FFphANxCRe",
+    "walletChain": "XMR",
+    "domain": "vellumtrade13763.xyz"
+  },
+  {
+    "handle": "TalonSpindle",
+    "category": "Malware",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Selling a crypter service bundled with a RAT",
+    "firstSeenDaysAgo": 592,
+    "lastSeenDaysAgo": 12,
+    "reliability": "A",
+    "confidence": 92,
+    "domain": "talonspindle942.cc",
+    "ip": "89.110.13.73"
+  },
+  {
+    "handle": "NullRelay7",
+    "category": "Fraud",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling fullz (complete identity packages) with refund guarantee",
+    "firstSeenDaysAgo": 402,
+    "lastSeenDaysAgo": 28,
+    "reliability": "B",
+    "confidence": 63,
+    "domain": "nullrelay7257.store",
+    "ip": "186.51.62.70"
+  },
+  {
+    "handle": "RavenByte",
+    "category": "Initial Access",
+    "riskLevel": "Medium",
+    "status": "CLOSED",
+    "note": "Selling access to a compromised MSP with downstream clients",
+    "firstSeenDaysAgo": 400,
+    "lastSeenDaysAgo": 7,
+    "reliability": "A",
+    "confidence": 58,
+    "pgp": "F2F2 3587 7B2D AB1D",
+    "domain": "ravenbyte108.io",
+    "ip": "72.198.39.11"
+  },
+  {
+    "handle": "OnyxReaper",
+    "category": "Malware",
+    "riskLevel": "Low",
+    "status": "DORMANT",
+    "note": "Ransomware affiliate recruitment post observed",
+    "firstSeenDaysAgo": 566,
+    "lastSeenDaysAgo": 36,
+    "reliability": "B",
+    "confidence": 79
+  },
+  {
+    "handle": "OnyxRunner97",
+    "category": "Other",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "General-purpose vendor profile, category unclear",
+    "firstSeenDaysAgo": 571,
+    "lastSeenDaysAgo": 22,
+    "reliability": "A",
+    "confidence": 85,
+    "pgp": "2322 5E62 A733 61BE",
+    "wallet": "4TQionS844RUCoDGvKMN6uCkVrB3D2y9G9NrX4awVuK2XH2VcnXCZ9xctMwVAEeYEG6A5fS25DJ1KzPYSQUaZzQJpY4hRXV",
+    "walletChain": "XMR",
+    "domain": "onyxrunner97359.net",
+    "ip": "109.57.23.13"
+  },
+  {
+    "handle": "OnyxCircuit98",
+    "category": "Fraud",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Multiple buyer complaints about non-delivery",
+    "firstSeenDaysAgo": 202,
+    "lastSeenDaysAgo": 50,
+    "reliability": "D",
+    "confidence": 96,
+    "domain": "onyxcircuit98140.net",
+    "ip": "93.104.71.138"
+  },
+  {
+    "handle": "SaltMarket",
+    "category": "Data Theft",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Selling exfiltrated corporate databases on forum",
+    "firstSeenDaysAgo": 586,
+    "lastSeenDaysAgo": 4,
+    "reliability": "C",
+    "confidence": 84,
+    "ip": "94.129.61.100"
+  },
+  {
+    "handle": "OnyxWarden25",
+    "category": "Malware",
+    "riskLevel": "High",
+    "status": "CLOSED",
+    "note": "Custom loader build service, per-sample pricing observed",
+    "firstSeenDaysAgo": 444,
+    "lastSeenDaysAgo": 35,
+    "reliability": "D",
+    "confidence": 95,
+    "pgp": "91FC 2795 0FE8 3CBA",
+    "domain": "onyxwarden25285.net",
+    "ip": "156.254.224.98"
+  },
+  {
+    "handle": "RogueWarden19",
+    "category": "Initial Access",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling RDP/VPN access to compromised networks",
+    "firstSeenDaysAgo": 190,
+    "lastSeenDaysAgo": 6,
+    "reliability": "B",
+    "confidence": 65,
+    "pgp": "3284 8369 3046 C27B"
+  },
+  {
+    "handle": "VellumAnchor1",
+    "category": "Initial Access",
+    "riskLevel": "High",
+    "status": "DORMANT",
+    "note": "Selling RDP/VPN access to compromised networks",
+    "firstSeenDaysAgo": 101,
+    "lastSeenDaysAgo": 3,
+    "reliability": "D",
+    "confidence": 57,
+    "domain": "vellumanchor1502.shop"
+  },
+  {
+    "handle": "RogueAnchor",
+    "category": "Data Theft",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Auctioning a healthcare-provider record dump",
+    "firstSeenDaysAgo": 524,
+    "lastSeenDaysAgo": 33,
+    "reliability": "A",
+    "confidence": 68,
+    "pgp": "1E49 7A8D 0B53 B625"
+  },
+  {
+    "handle": "OnyxCache",
+    "category": "Financial Crime",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Suspected of laundering proceeds through mixing services",
+    "firstSeenDaysAgo": 823,
+    "lastSeenDaysAgo": 8,
+    "reliability": "A",
+    "confidence": 56,
+    "domain": "onyxcache407.info"
+  },
+  {
+    "handle": "FenCache",
+    "category": "Financial Crime",
+    "riskLevel": "Medium",
+    "status": "DORMANT",
+    "note": "Running an escrow-fraud scheme flagged by two independent buyers",
+    "firstSeenDaysAgo": 783,
+    "lastSeenDaysAgo": 45,
+    "reliability": "B",
+    "confidence": 56,
+    "pgp": "A939 DA0A 6135 3314",
+    "domain": "fencache997.info",
+    "ip": "193.64.182.107"
+  },
+  {
+    "handle": "BasaltReaper43",
+    "category": "Financial Crime",
+    "riskLevel": "High",
+    "status": "DORMANT",
+    "note": "Card-fraud vendor profile cross-referenced with breach corpus",
+    "firstSeenDaysAgo": 512,
+    "lastSeenDaysAgo": 15,
+    "reliability": "B",
+    "confidence": 84,
+    "domain": "basaltreaper43869.io",
+    "ip": "170.127.94.113"
+  },
+  {
+    "handle": "ShadowShard",
+    "category": "Malware",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Ransomware affiliate recruitment post observed",
+    "firstSeenDaysAgo": 174,
+    "lastSeenDaysAgo": 5,
+    "reliability": "D",
+    "confidence": 65,
+    "pgp": "8D37 86AC A8D4 1BA8",
+    "domain": "shadowshard776.xyz",
+    "ip": "81.67.112.163"
+  },
+  {
+    "handle": "GrimVault",
+    "category": "Financial Crime",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "BEC (business email compromise) broker profile flagged by two sources",
+    "firstSeenDaysAgo": 815,
+    "lastSeenDaysAgo": 52,
+    "reliability": "B",
+    "confidence": 82,
+    "ip": "70.224.132.116"
+  },
+  {
+    "handle": "MarrowBeacon",
+    "category": "Initial Access",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling RDP/VPN access to compromised networks",
+    "firstSeenDaysAgo": 109,
+    "lastSeenDaysAgo": 18,
+    "reliability": "B",
+    "confidence": 73,
+    "pgp": "DB9A 10E8 A393 0367",
+    "wallet": "0xd1806e2ad20213a989c2b3bfb74215b915219a72",
+    "walletChain": "ETH",
+    "ip": "169.117.110.165"
+  },
+  {
+    "handle": "UmbraFracture",
+    "category": "Other",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Newly observed handle, category pending review",
+    "firstSeenDaysAgo": 198,
+    "lastSeenDaysAgo": 17,
+    "reliability": "C",
+    "confidence": 76,
+    "domain": "umbrafracture83.store"
+  },
+  {
+    "handle": "StaticRelay58",
+    "category": "Initial Access",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Auctioning domain-admin access to a mid-size manufacturer",
+    "firstSeenDaysAgo": 522,
+    "lastSeenDaysAgo": 49,
+    "reliability": "D",
+    "confidence": 74,
+    "pgp": "9E64 7258 B4FF 375E",
+    "wallet": "bc1qkfX3FUujcCbmXeY8mYedpF6VATeA7KkPJp",
+    "walletChain": "BTC",
+    "ip": "119.37.167.242"
+  },
+  {
+    "handle": "QuartzSpindle",
+    "category": "Malware",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Distributing a loader advertised as FUD (fully undetected)",
+    "firstSeenDaysAgo": 505,
+    "lastSeenDaysAgo": 15,
+    "reliability": "C",
+    "confidence": 77,
+    "wallet": "0x4c3240d82f2300a4801ea384705920091af999c0",
+    "walletChain": "ETH",
+    "domain": "quartzspindle919.store"
+  },
+  {
+    "handle": "BasaltDrift53",
+    "category": "Malware",
+    "riskLevel": "Medium",
+    "status": "CLOSED",
+    "note": "Distributing a loader advertised as FUD (fully undetected)",
+    "firstSeenDaysAgo": 521,
+    "lastSeenDaysAgo": 53,
+    "reliability": "C",
+    "confidence": 57,
+    "wallet": "bc1qJks4urj9uA6Qzdqg7VsT7TwnF88TWp4LTv",
+    "walletChain": "BTC",
+    "domain": "basaltdrift5388.cc",
+    "ip": "61.55.133.91"
+  },
+  {
+    "handle": "QuartzCache",
+    "category": "Fraud",
+    "riskLevel": "Medium",
+    "status": "CLOSED",
+    "note": "Selling fullz (complete identity packages) with refund guarantee",
+    "firstSeenDaysAgo": 106,
+    "lastSeenDaysAgo": 8,
+    "reliability": "B",
+    "confidence": 64,
+    "pgp": "94CB 22C5 CA7B 15F2",
+    "wallet": "4QAbvrSPpeLU2MP6uhZF42wh3V5LuRMxQNVrCmBEwJabaF4qBASnNHgt3aeaBFGZtJE1sNwtens1mU8g9AtVQMFxNLcvGsH",
+    "walletChain": "XMR",
+    "domain": "quartzcache276.info"
+  },
+  {
+    "handle": "WraithBeacon",
+    "category": "Financial Crime",
+    "riskLevel": "Low",
+    "status": "DORMANT",
+    "note": "Money-mule recruitment thread traced back to this handle",
+    "firstSeenDaysAgo": 616,
+    "lastSeenDaysAgo": 3,
+    "reliability": "D",
+    "confidence": 57,
+    "pgp": "9548 B4E5 5154 DF09",
+    "wallet": "0x2ed4a41f013b8a0562dd6577f6b5ddeb69ef2663",
+    "walletChain": "ETH",
+    "ip": "85.58.88.53"
+  },
+  {
+    "handle": "MarrowVault55",
+    "category": "Financial Crime",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Suspected of laundering proceeds through mixing services",
+    "firstSeenDaysAgo": 693,
+    "lastSeenDaysAgo": 40,
+    "reliability": "C",
+    "confidence": 73,
+    "wallet": "0xe8bf4347bec1a82eeb3891212e3cef04a403c258",
+    "walletChain": "ETH",
+    "domain": "marrowvault5548.store"
+  },
+  {
+    "handle": "StaticTrade",
+    "category": "Financial Crime",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Advertising bulk stolen card dumps with 'live rate' guarantee",
+    "firstSeenDaysAgo": 691,
+    "lastSeenDaysAgo": 21,
+    "reliability": "B",
+    "confidence": 66,
+    "wallet": "bc1qqENFVDe8JQjETFReFkFjME97Vh7vb7N4Tq",
+    "walletChain": "BTC",
+    "ip": "72.160.141.151"
+  },
+  {
+    "handle": "SaltRoot",
+    "category": "Data Theft",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling scraped credential lists with claimed 40% hit rate",
+    "firstSeenDaysAgo": 293,
+    "lastSeenDaysAgo": 0,
+    "reliability": "A",
+    "confidence": 58,
+    "pgp": "51BE 3194 3D73 232C",
+    "wallet": "0x09dbe61d9485c12edfe40934d68e46a59036ec2b",
+    "walletChain": "ETH",
+    "domain": "saltroot77.shop",
+    "ip": "68.141.112.50"
+  },
+  {
+    "handle": "SlateReaper70",
+    "category": "Other",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Cross-posts in multiple unrelated sub-forums, unclear specialization",
+    "firstSeenDaysAgo": 559,
+    "lastSeenDaysAgo": 45,
+    "reliability": "A",
+    "confidence": 77,
+    "domain": "slatereaper70691.xyz",
+    "ip": "180.235.74.90"
+  },
+  {
+    "handle": "FrostLoop64",
+    "category": "Other",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Miscellaneous forum activity, still being triaged",
+    "firstSeenDaysAgo": 841,
+    "lastSeenDaysAgo": 27,
+    "reliability": "B",
+    "confidence": 70,
+    "wallet": "47QQYR4JofRHxCqkYVxnP8P5dhkXmJXCXWaPktudFAAvpTfyP8jmbrFP2aLXstBFZWGjnuDvnwQPyFLE89ntPNkwg3Cq99d",
+    "walletChain": "XMR"
+  },
+  {
+    "handle": "ObsidianSignal21",
+    "category": "Financial Crime",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Running an escrow-fraud scheme flagged by two independent buyers",
+    "firstSeenDaysAgo": 44,
+    "lastSeenDaysAgo": 26,
+    "reliability": "D",
+    "confidence": 71,
+    "pgp": "0137 0933 BAE1 CA6E",
+    "domain": "obsidiansignal21123.io"
+  },
+  {
+    "handle": "StaticSpindle38",
+    "category": "Initial Access",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "Selling access to a compromised MSP with downstream clients",
+    "firstSeenDaysAgo": 838,
+    "lastSeenDaysAgo": 38,
+    "reliability": "E",
+    "confidence": 80,
+    "pgp": "B521 6652 4DCD 55E2",
+    "wallet": "bc1qU8cFjSz6rM2M9KSUJraJc4zkbpsnzFAdy7",
+    "walletChain": "BTC",
+    "domain": "staticspindle38414.cc",
+    "ip": "83.220.17.182"
+  },
+  {
+    "handle": "StaticFox",
+    "category": "Malware",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Custom loader build service, per-sample pricing observed",
+    "firstSeenDaysAgo": 361,
+    "lastSeenDaysAgo": 10,
+    "reliability": "A",
+    "confidence": 57,
+    "wallet": "bc1qTDpnNjwG3UDmqhgeDKgHGV2AWm7vmWm5Qe",
+    "walletChain": "BTC",
+    "ip": "154.191.126.100"
+  },
+  {
+    "handle": "GhostMarket",
+    "category": "Fraud",
+    "riskLevel": "High",
+    "status": "CLOSED",
+    "note": "Refund-fraud tutorial and support-chat access advertised",
+    "firstSeenDaysAgo": 348,
+    "lastSeenDaysAgo": 41,
+    "reliability": "D",
+    "confidence": 90,
+    "pgp": "5DBB 196F 8904 B53D",
+    "wallet": "0x7da6b319f1ed27fa18f3c54c5953e0ef9a848a44",
+    "walletChain": "ETH",
+    "domain": "ghostmarket662.io"
+  },
+  {
+    "handle": "AshKey",
+    "category": "Initial Access",
+    "riskLevel": "Critical",
+    "status": "UNDER INVESTIGATION",
+    "note": "VPN appliance exploit access listed, unpatched CVE referenced",
+    "firstSeenDaysAgo": 710,
+    "lastSeenDaysAgo": 44,
+    "reliability": "B",
+    "confidence": 86,
+    "domain": "ashkey498.xyz",
+    "ip": "48.184.156.233"
+  },
+  {
+    "handle": "UmbraCache",
+    "category": "Data Theft",
+    "riskLevel": "Medium",
+    "status": "CLOSED",
+    "note": "Linked to a reported data leak from a mid-size retailer",
+    "firstSeenDaysAgo": 154,
+    "lastSeenDaysAgo": 16,
+    "reliability": "A",
+    "confidence": 82,
+    "pgp": "686E 031F B5C4 6959",
+    "domain": "umbracache841.xyz"
+  },
+  {
+    "handle": "NullRunner",
+    "category": "Malware",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Custom loader build service, per-sample pricing observed",
+    "firstSeenDaysAgo": 750,
+    "lastSeenDaysAgo": 14,
+    "reliability": "B",
+    "confidence": 65,
+    "pgp": "9D62 524E F5D5 F122",
+    "domain": "nullrunner838.info",
+    "ip": "139.52.86.180"
+  },
+  {
+    "handle": "GrimNode25",
+    "category": "Financial Crime",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Running an escrow-fraud scheme flagged by two independent buyers",
+    "firstSeenDaysAgo": 127,
+    "lastSeenDaysAgo": 9,
+    "reliability": "B",
+    "confidence": 69,
+    "wallet": "4BnL6dTnakec972JT3CcoZFXjjNNPMfXHYyMvH3iY92XtQHvqWDQJZvoSLEe4uTx5ooijZkbrwLXg6wZafMYMjNQC5cxtCq",
+    "walletChain": "XMR",
+    "domain": "grimnode25971.xyz"
+  },
+  {
+    "handle": "CinderWarden2",
+    "category": "Fraud",
+    "riskLevel": "High",
+    "status": "UNDER INVESTIGATION",
+    "note": "Running a fake-vendor exit-scam pattern",
+    "firstSeenDaysAgo": 76,
+    "lastSeenDaysAgo": 18,
+    "reliability": "C",
+    "confidence": 61,
+    "pgp": "C284 5A3A 42CA FCEB"
+  },
+  {
+    "handle": "CipherWarden",
+    "category": "Fraud",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Running a fake-vendor exit-scam pattern",
+    "firstSeenDaysAgo": 450,
+    "lastSeenDaysAgo": 32,
+    "reliability": "B",
+    "confidence": 63,
+    "wallet": "bc1q7Qnuxc7vZ85ZcN7VR8tEhkqqEKPhK5Jpz4",
+    "walletChain": "BTC",
+    "domain": "cipherwarden194.info"
+  },
+  {
+    "handle": "ShadowSpindle",
+    "category": "Other",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "General-purpose vendor profile, category unclear",
+    "firstSeenDaysAgo": 66,
+    "lastSeenDaysAgo": 43,
+    "reliability": "A",
+    "confidence": 94,
+    "pgp": "2A9F B195 206E EBF7",
+    "domain": "shadowspindle890.net",
+    "ip": "51.21.56.169"
+  },
+  {
+    "handle": "SaltReaper",
+    "category": "Fraud",
+    "riskLevel": "Medium",
+    "status": "UNDER INVESTIGATION",
+    "note": "Refund-fraud tutorial and support-chat access advertised",
+    "firstSeenDaysAgo": 331,
+    "lastSeenDaysAgo": 47,
+    "reliability": "C",
+    "confidence": 73,
+    "pgp": "3873 7AFF 4307 AEC3",
+    "ip": "58.173.185.37"
+  },
+  {
+    "handle": "WolfTrade78",
+    "category": "Data Theft",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "Posted sample rows from an alleged SaaS customer breach",
+    "firstSeenDaysAgo": 459,
+    "lastSeenDaysAgo": 16,
+    "reliability": "A",
+    "confidence": 94,
+    "pgp": "E9D8 6E5B 9893 706A"
+  },
+  {
+    "handle": "AshByte",
+    "category": "Other",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "General-purpose vendor profile, category unclear",
+    "firstSeenDaysAgo": 481,
+    "lastSeenDaysAgo": 31,
+    "reliability": "B",
+    "confidence": 55,
+    "pgp": "F48C 6EDF 7EA6 085F",
+    "domain": "ashbyte651.biz",
+    "ip": "153.139.50.223"
+  },
+  {
+    "handle": "PaleBishop",
+    "category": "Malware",
+    "riskLevel": "Critical",
+    "status": "DORMANT",
+    "note": "Botnet rental listing, DDoS and spam modules advertised",
+    "firstSeenDaysAgo": 89,
+    "lastSeenDaysAgo": 33,
+    "reliability": "A",
+    "confidence": 69,
+    "wallet": "4Hv7zrzNtMHZmnU2ob2ivjzApCsoiBDCmJMyTM1MHFpHLAMG7qC18mLi7AeJEBm6rKJMsSNDviDnaAEhppBZzFYXLsZQ4v6",
+    "walletChain": "XMR",
+    "domain": "palebishop515.biz",
+    "ip": "174.146.27.118"
+  },
+  {
+    "handle": "NullProxy78",
+    "category": "Fraud",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Running a fake-vendor exit-scam pattern",
+    "firstSeenDaysAgo": 489,
+    "lastSeenDaysAgo": 21,
+    "reliability": "B",
+    "confidence": 79,
+    "pgp": "CCFC 98EE 7FD3 EED1",
+    "wallet": "0x46cadc15d7ea8e83a9ff666e97dc6098c323763f",
+    "walletChain": "ETH",
+    "domain": "nullproxy78925.shop",
+    "ip": "46.158.57.96"
+  },
+  {
+    "handle": "StaticFox27",
+    "category": "Financial Crime",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "BEC (business email compromise) broker profile flagged by two sources",
+    "firstSeenDaysAgo": 159,
+    "lastSeenDaysAgo": 32,
+    "reliability": "A",
+    "confidence": 72,
+    "domain": "staticfox27695.io",
+    "ip": "145.96.77.156"
+  },
+  {
+    "handle": "FenTrade11",
+    "category": "Fraud",
+    "riskLevel": "Medium",
+    "status": "CLOSED",
+    "note": "Refund-fraud tutorial and support-chat access advertised",
+    "firstSeenDaysAgo": 478,
+    "lastSeenDaysAgo": 27,
+    "reliability": "D",
+    "confidence": 72,
+    "pgp": "62E4 2C6A C3D5 2083",
+    "wallet": "0x59feb611b15febe9f212031464161db8ff247fd5",
+    "walletChain": "ETH"
+  },
+  {
+    "handle": "FrostWire",
+    "category": "Data Theft",
+    "riskLevel": "Low",
+    "status": "MONITORING",
+    "note": "Auctioning a healthcare-provider record dump",
+    "firstSeenDaysAgo": 631,
+    "lastSeenDaysAgo": 7,
+    "reliability": "A",
+    "confidence": 75,
+    "pgp": "2C8E E98E DF9A 5306",
+    "wallet": "4KnqSFxmjMBt7FR9fNibSEgcLbbRmHPxVGCZL3pguDLBwUje9VRhYk4gLp3tfZNcLvTFmhybyvZKtjvgZPvPqRaF1TaURgz",
+    "walletChain": "XMR"
+  },
+  {
+    "handle": "IronSignal67",
+    "category": "Initial Access",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Advertising footholds into corporate environments",
+    "firstSeenDaysAgo": 725,
+    "lastSeenDaysAgo": 9,
+    "reliability": "B",
+    "confidence": 83,
+    "pgp": "25F9 8ECC 18E2 77C1",
+    "domain": "ironsignal67292.xyz",
+    "ip": "161.5.211.13"
+  },
+  {
+    "handle": "RogueRelay3",
+    "category": "Financial Crime",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "BEC (business email compromise) broker profile flagged by two sources",
+    "firstSeenDaysAgo": 253,
+    "lastSeenDaysAgo": 50,
+    "reliability": "D",
+    "confidence": 63,
+    "pgp": "5C8D D2C9 5B58 EFD9",
+    "domain": "roguerelay3494.net",
+    "ip": "179.140.48.218"
+  },
+  {
+    "handle": "FerroAnchor",
+    "category": "Malware",
+    "riskLevel": "Critical",
+    "status": "MONITORING",
+    "note": "Custom loader build service, per-sample pricing observed",
+    "firstSeenDaysAgo": 346,
+    "lastSeenDaysAgo": 36,
+    "reliability": "C",
+    "confidence": 79,
+    "domain": "ferroanchor758.net"
+  },
+  {
+    "handle": "WolfSable",
+    "category": "Financial Crime",
+    "riskLevel": "Medium",
+    "status": "MONITORING",
+    "note": "BEC (business email compromise) broker profile flagged by two sources",
+    "firstSeenDaysAgo": 558,
+    "lastSeenDaysAgo": 51,
+    "reliability": "C",
+    "confidence": 65,
+    "wallet": "bc1qRspEhm3SGMVdbkkDkq9sdSK0ZHLyvqWUUD",
+    "walletChain": "BTC",
+    "domain": "wolfsable529.shop",
+    "ip": "183.74.83.8"
+  },
+  {
+    "handle": "CinderCache32",
+    "category": "Data Theft",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Linked to a reported data leak from a mid-size retailer",
+    "firstSeenDaysAgo": 799,
+    "lastSeenDaysAgo": 51,
+    "reliability": "A",
+    "confidence": 72,
+    "wallet": "bc1q3eQYKWQE8wEM3qPxYAK3ZdLLy4k6bL5je0",
+    "walletChain": "BTC",
+    "domain": "cindercache32662.shop"
+  },
+  {
+    "handle": "FenBishop97",
+    "category": "Malware",
+    "riskLevel": "Low",
+    "status": "UNDER INVESTIGATION",
+    "note": "Botnet rental listing, DDoS and spam modules advertised",
+    "firstSeenDaysAgo": 800,
+    "lastSeenDaysAgo": 38,
+    "reliability": "C",
+    "confidence": 61,
+    "pgp": "D9E6 70C8 6598 8CA7",
+    "domain": "fenbishop979.xyz",
+    "ip": "45.48.105.145"
+  },
+  {
+    "handle": "RogueForge72",
+    "category": "Data Theft",
+    "riskLevel": "High",
+    "status": "MONITORING",
+    "note": "Linked to a reported data leak from a mid-size retailer",
+    "firstSeenDaysAgo": 846,
+    "lastSeenDaysAgo": 25,
+    "reliability": "B",
+    "confidence": 60,
+    "ip": "58.20.241.38"
+  },
+  {
+    "handle": "SilentReaper",
+    "linkTo": "SaltMarket",
+    "linkType": "SAME_IP",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "HollowTrade",
+    "linkTo": "GrimNode25",
+    "linkType": "SAME_IP",
+    "linkConfidence": 82,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "FenBishop97",
+    "linkTo": "HollowFox",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 88
+  },
+  {
+    "handle": "FenNode94",
+    "linkTo": "OnyxReaper",
+    "linkType": "RESOLVES_TO",
+    "linkConfidence": 57
+  },
+  {
+    "handle": "SaltForge",
+    "linkTo": "EmberSpindle93",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 92,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "SilentReaper",
+    "linkTo": "OnyxDrift49",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 86
+  },
+  {
+    "handle": "CipherBishop",
+    "linkTo": "BasaltDrift53",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "FenNode94",
+    "linkTo": "RogueSignal74",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 85
+  },
+  {
+    "handle": "CipherCircuit",
+    "personaWith": "RogueForge72",
+    "personaSimilarity": 85
+  },
+  {
+    "handle": "RogueWarden18",
+    "linkTo": "NullRelay7",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 89,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "GrimVault",
+    "personaWith": "SilentReaper",
+    "personaSimilarity": 84
+  },
+  {
+    "handle": "EmberShard86",
+    "linkTo": "HollowKey",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "FrostWire",
+    "personaWith": "RavenByte",
+    "personaSimilarity": 90
+  },
+  {
+    "handle": "GrimVault",
+    "linkTo": "RogueForge72",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 84,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "CipherBishop",
+    "personaWith": "HollowTrade",
+    "personaSimilarity": 82
+  },
+  {
+    "handle": "RogueWarden19",
+    "linkTo": "ObsidianSignal21",
+    "linkType": "RESOLVES_TO",
+    "linkConfidence": 75
+  },
+  {
+    "handle": "HollowMarket34",
+    "personaWith": "QuartzSignal89",
+    "personaSimilarity": 85
+  },
+  {
+    "handle": "QuartzTrade76",
+    "linkTo": "EmberSpindle93",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 92,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "RustByte15",
+    "linkTo": "RogueForge72",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 94
+  },
+  {
+    "handle": "NullRelay7",
+    "linkTo": "FenTrade11",
+    "linkType": "SAME_IP",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzSignal89",
+    "linkTo": "SilentBishop73",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 90
+  },
+  {
+    "handle": "DuskForge46",
+    "linkTo": "FrostWire",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "VellumTrade13",
+    "personaWith": "HollowKey",
+    "personaSimilarity": 37
+  },
+  {
+    "handle": "AshByte",
+    "linkTo": "RogueForge72",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "CipherDrift91",
+    "linkTo": "SaltReaper",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "FenCache",
+    "personaWith": "RogueWarden18",
+    "personaSimilarity": 63
+  },
+  {
+    "handle": "WraithBeacon",
+    "linkTo": "VortexSignal",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "SlateReaper70",
+    "linkTo": "HollowFox",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 81,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "OnyxWarden25",
+    "linkTo": "FenBishop97",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 77
+  },
+  {
+    "handle": "QuartzTrade76",
+    "linkTo": "WraithMarket27",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 88,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "CinderWarden2",
+    "linkTo": "VortexSignal",
+    "linkType": "SAME_IP",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "EmberSpindle93",
+    "linkTo": "CinderCache32",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "SilentBishop73",
+    "linkTo": "FerroAnchor",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 90
+  },
+  {
+    "handle": "ShadowWarden61",
+    "personaWith": "WraithMarket27",
+    "personaSimilarity": 57
+  },
+  {
+    "handle": "EmberNode76",
+    "personaWith": "IronSignal67",
+    "personaSimilarity": 70
+  },
+  {
+    "handle": "DuskForge46",
+    "linkTo": "StaticSpindle38",
+    "linkType": "SAME_IP",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "PaleRoot62",
+    "linkTo": "SaltCache48",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 90,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "UmbraCache",
+    "linkTo": "ShadowWarden61",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "SlateSable",
+    "linkTo": "ShadowShard",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 96,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "SilentBishop73",
+    "linkTo": "RustByte15",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "WolfSable",
+    "linkTo": "PaleBishop",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 92,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "MarrowVault55",
+    "linkTo": "SaltCache48",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 81,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "OnyxDrift49",
+    "linkTo": "OnyxCache",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "NullRelay7",
+    "linkTo": "VortexProxy26",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 82,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "OnyxCircuit98",
+    "personaWith": "OnyxRunner97",
+    "personaSimilarity": 84
+  },
+  {
+    "handle": "StaticFox",
+    "personaWith": "HollowFox",
+    "personaSimilarity": 91
+  },
+  {
+    "handle": "HollowWarden33",
+    "linkTo": "MarrowVault55",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "CipherBishop",
+    "linkTo": "RogueWarden19",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 81
+  },
+  {
+    "handle": "VortexProxy26",
+    "personaWith": "HollowWarden33",
+    "personaSimilarity": 90
+  },
+  {
+    "handle": "OnyxCache",
+    "linkTo": "ObsidianSignal21",
+    "linkType": "SIMILAR_WRITING_STYLE",
+    "linkConfidence": 67
+  },
+  {
+    "handle": "RustByte15",
+    "linkTo": "VortexCircuit39",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 94
+  },
+  {
+    "handle": "OnyxReaper",
+    "personaWith": "SaltCache48",
+    "personaSimilarity": 73
+  },
+  {
+    "handle": "FenNode94",
+    "linkTo": "CipherRelay70",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 86
+  },
+  {
+    "handle": "PaleBishop",
+    "linkTo": "EmberProxy",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 80
+  },
+  {
+    "handle": "ShadowShard",
+    "linkTo": "ObsidianSignal21",
+    "linkType": "SAME_IP",
+    "linkConfidence": 84,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "FenBishop97",
+    "linkTo": "AshKey",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "SaltRoot",
+    "linkTo": "TalonSpindle",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 88
+  },
+  {
+    "handle": "TalonLoop23",
+    "linkTo": "StaticFox",
+    "linkType": "SAME_IP",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "StaticFox27",
+    "personaWith": "RavenByte",
+    "personaSimilarity": 45
+  },
+  {
+    "handle": "PaleBishop",
+    "personaWith": "TalonCircuit12",
+    "personaSimilarity": 82
+  },
+  {
+    "handle": "UmbraCache",
+    "linkTo": "RogueNode",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 97
+  },
+  {
+    "handle": "ShadowRunner53",
+    "personaWith": "WraithBeacon",
+    "personaSimilarity": 91
+  },
+  {
+    "handle": "CipherRelay70",
+    "personaWith": "SaltCache48",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "HollowTrade",
+    "linkTo": "RogueRelay3",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 82,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "PaleBishop",
+    "linkTo": "EmberSpindle93",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 79
+  },
+  {
+    "handle": "ShadowSpindle",
+    "linkTo": "HollowTrade",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 89,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "OnyxWarden25",
+    "linkTo": "ShadowShard",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "PaleBishop",
+    "linkTo": "TalonLoop23",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 86
+  },
+  {
+    "handle": "SlateRelay",
+    "personaWith": "AshKey",
+    "personaSimilarity": 70
+  },
+  {
+    "handle": "VellumAnchor1",
+    "personaWith": "MarrowVault55",
+    "personaSimilarity": 74
+  },
+  {
+    "handle": "RogueAnchor",
+    "linkTo": "SaltForge",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 90,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "TalonLoop23",
+    "linkTo": "EmberShard86",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 88
+  },
+  {
+    "handle": "QuartzSpindle",
+    "personaWith": "HollowFox",
+    "personaSimilarity": 74
+  },
+  {
+    "handle": "RogueWarden19",
+    "personaWith": "CipherDrift91",
+    "personaSimilarity": 96
+  },
+  {
+    "handle": "SilentReaper",
+    "personaWith": "BasaltDrift53",
+    "personaSimilarity": 91
+  },
+  {
+    "handle": "StaticKey",
+    "linkTo": "WraithMarket27",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 92
+  },
+  {
+    "handle": "UmbraFracture",
+    "linkTo": "GhostTrade50",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 82,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "HollowWarden33",
+    "linkTo": "PaleMarket97",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 81
+  },
+  {
+    "handle": "AshByte",
+    "linkTo": "EmberSpindle93",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 80
+  },
+  {
+    "handle": "HollowKey",
+    "personaWith": "FenSable47",
+    "personaSimilarity": 75
+  },
+  {
+    "handle": "DuskForge46",
+    "linkTo": "SilentBishop73",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "ShadowRunner53",
+    "linkTo": "SaltMarket",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 90
+  },
+  {
+    "handle": "FerroAnchor",
+    "linkTo": "FenCache",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "RogueWarden19",
+    "linkTo": "QuartzTrade56",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "RavenAnchor",
+    "personaWith": "TalonSpindle",
+    "personaSimilarity": 75
+  },
+  {
+    "handle": "BasaltDrift53",
+    "linkTo": "AshVault55",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 81
+  },
+  {
+    "handle": "PaleShard13",
+    "linkTo": "StaticTrade",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 81
+  },
+  {
+    "handle": "OnyxReaper",
+    "linkTo": "PaleBishop",
+    "linkType": "SAME_IP",
+    "linkConfidence": 75,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "CinderWarden2",
+    "linkTo": "VortexProxy26",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzTrade56",
+    "linkTo": "ObsidianSignal21",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "OnyxMarket",
+    "linkTo": "PaleMarket97",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 91,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "EmberProxy",
+    "linkTo": "ShadowRunner53",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 93,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "TalonSpindle",
+    "linkTo": "GhostTrade50",
+    "linkType": "SAME_IP",
+    "linkConfidence": 92
+  },
+  {
+    "handle": "FenBishop97",
+    "linkTo": "RogueWarden19",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 94
+  },
+  {
+    "handle": "OnyxCache",
+    "linkTo": "WolfSable",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 82
+  },
+  {
+    "handle": "StaticKey",
+    "personaWith": "SaltRoot",
+    "personaSimilarity": 93
+  },
+  {
+    "handle": "QuartzTrade56",
+    "personaWith": "HollowTrade",
+    "personaSimilarity": 84
+  },
+  {
+    "handle": "AshSignal",
+    "linkTo": "OnyxRunner97",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 88,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "CipherRelay70",
+    "linkTo": "StaticTrade",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 78,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "FenTrade11",
+    "linkTo": "WolfSable",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 84,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "StaticKey",
+    "linkTo": "RogueRelay3",
+    "linkType": "SIMILAR_WRITING_STYLE",
+    "linkConfidence": 65
+  },
+  {
+    "handle": "DuskForge46",
+    "linkTo": "AshSignal",
+    "linkType": "POSTED_ON",
+    "linkConfidence": 70
+  },
+  {
+    "handle": "StaticRelay58",
+    "personaWith": "NullRunner",
+    "personaSimilarity": 75
+  },
+  {
+    "handle": "RogueSignal74",
+    "personaWith": "OnyxDrift49",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "FerroByte25",
+    "personaWith": "HollowMarket34",
+    "personaSimilarity": 92
+  },
+  {
+    "handle": "SaltRoot",
+    "linkTo": "StaticRelay58",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 94
+  },
+  {
+    "handle": "AshMarket",
+    "linkTo": "OnyxWarden25",
+    "linkType": "SAME_IP",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "FenNode94",
+    "personaWith": "GrimNode25",
+    "personaSimilarity": 82
+  },
+  {
+    "handle": "HollowFox",
+    "personaWith": "StaticKey",
+    "personaSimilarity": 83
+  },
+  {
+    "handle": "OnyxWarden25",
+    "linkTo": "TalonCircuit12",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 85
+  },
+  {
+    "handle": "OnyxWarden25",
+    "linkTo": "UmbraFracture",
+    "linkType": "SAME_IP",
+    "linkConfidence": 81
+  },
+  {
+    "handle": "SilentBishop73",
+    "personaWith": "CipherBishop",
+    "personaSimilarity": 96
+  },
+  {
+    "handle": "SlateRelay",
+    "linkTo": "PaleMarket97",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 73,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "StaticRelay58",
+    "linkTo": "GhostTrade50",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 81,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "RogueWarden19",
+    "linkTo": "MarrowBeacon",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 97
+  },
+  {
+    "handle": "ShadowRunner53",
+    "linkTo": "WolfSable",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "QuartzSignal89",
+    "linkTo": "TalonSpindle",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "WraithBeacon",
+    "personaWith": "OnyxCircuit98",
+    "personaSimilarity": 92
+  },
+  {
+    "handle": "VortexCircuit39",
+    "linkTo": "DuskForge46",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 88,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "FenBishop97",
+    "personaWith": "StaticFox",
+    "personaSimilarity": 89
+  },
+  {
+    "handle": "AshByte",
+    "linkTo": "RavenByte",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 80
+  },
+  {
+    "handle": "GrimNode25",
+    "personaWith": "HollowTrade",
+    "personaSimilarity": 57
+  },
+  {
+    "handle": "StaticKey",
+    "linkTo": "SaltReaper",
+    "linkType": "SAME_IP",
+    "linkConfidence": 92
+  },
+  {
+    "handle": "NullLedger92",
+    "linkTo": "SaltMarket",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "AshKey",
+    "linkTo": "EmberShard86",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 88,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "SaltMarket",
+    "personaWith": "RogueForge72",
+    "personaSimilarity": 51
+  },
+  {
+    "handle": "QuartzCache",
+    "linkTo": "ShadowShard15",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 87,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "SaltForge",
+    "personaWith": "SaltReaper",
+    "personaSimilarity": 86
+  },
+  {
+    "handle": "CinderCache32",
+    "linkTo": "StaticSpindle38",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 88,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "WolfTrade78",
+    "linkTo": "StaticFox27",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 77,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "DuskForge46",
+    "personaWith": "RogueNode",
+    "personaSimilarity": 84
+  },
+  {
+    "handle": "SaltRoot",
+    "linkTo": "ShadowShard",
+    "linkType": "SIMILAR_WRITING_STYLE",
+    "linkConfidence": 70
+  },
+  {
+    "handle": "TalonLoop23",
+    "linkTo": "CipherWarden",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 85
+  },
+  {
+    "handle": "HollowWarden33",
+    "linkTo": "WolfTrade78",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "QuartzTrade56",
+    "linkTo": "PaleShard13",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "EmberShard86",
+    "personaWith": "GhostTrade50",
+    "personaSimilarity": 71
+  },
+  {
+    "handle": "PaleShard13",
+    "linkTo": "HollowKey",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 77
+  },
+  {
+    "handle": "FerroByte25",
+    "linkTo": "SaltForge",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "SilentBishop73",
+    "linkTo": "HollowKey",
+    "linkType": "SAME_IP",
+    "linkConfidence": 94
+  },
+  {
+    "handle": "WolfTrade78",
+    "personaWith": "CinderCache32",
+    "personaSimilarity": 76
+  },
+  {
+    "handle": "AshByte",
+    "linkTo": "ShadowShard",
+    "linkType": "POSTED_ON",
+    "linkConfidence": 40
+  },
+  {
+    "handle": "StaticFox",
+    "linkTo": "RustByte15",
+    "linkType": "SAME_IP",
+    "linkConfidence": 89,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzSignal89",
+    "linkTo": "PaleShard13",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "QuartzSpindle",
+    "linkTo": "SlateReaper70",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 73,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "AshMarket",
+    "linkTo": "RavenAnchor",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 89,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "CipherRelay70",
+    "linkTo": "FenBishop97",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "AshMarket",
+    "personaWith": "VortexSignal",
+    "personaSimilarity": 89
+  },
+  {
+    "handle": "IronSignal67",
+    "linkTo": "StaticFox27",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 87,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "NullProxy78",
+    "linkTo": "WolfSable",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 98,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "FenBishop97",
+    "linkTo": "TalonCircuit12",
+    "linkType": "SAME_IP",
+    "linkConfidence": 93
+  },
+  {
+    "handle": "FerroAnchor",
+    "personaWith": "FrostWire",
+    "personaSimilarity": 82
+  },
+  {
+    "handle": "AshAnchor66",
+    "linkTo": "WraithMarket27",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 89,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "CipherDrift91",
+    "linkTo": "StaticFox",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 80,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "EmberSpindle93",
+    "linkTo": "FenTrade11",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "TalonSpindle",
+    "personaWith": "VellumTrade13",
+    "personaSimilarity": 87
+  },
+  {
+    "handle": "HollowTrade",
+    "personaWith": "CipherDrift91",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "NullLedger92",
+    "personaWith": "SaltForge",
+    "personaSimilarity": 72
+  },
+  {
+    "handle": "OnyxCache",
+    "linkTo": "RogueSignal74",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 86
+  },
+  {
+    "handle": "CipherBishop",
+    "linkTo": "VellumTrade13",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 81
+  },
+  {
+    "handle": "SaltReaper",
+    "linkTo": "QuartzCache",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 86,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "BasaltDrift53",
+    "linkTo": "NullRunner",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "SaltRoot",
+    "linkTo": "OnyxMarket",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "ObsidianSignal21",
+    "personaWith": "VortexSignal",
+    "personaSimilarity": 71
+  },
+  {
+    "handle": "EmberShard86",
+    "linkTo": "BasaltDrift53",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 78,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "NullLedger92",
+    "linkTo": "CinderCache32",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 75,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "StaticTrade",
+    "personaWith": "RogueNode",
+    "personaSimilarity": 35
+  },
+  {
+    "handle": "CipherBishop",
+    "linkTo": "SilentReaper",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "EmberSpindle93",
+    "linkTo": "FenSable47",
+    "linkType": "POSTED_ON",
+    "linkConfidence": 61
+  },
+  {
+    "handle": "PaleShard13",
+    "personaWith": "QuartzCache",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "RogueForge72",
+    "linkTo": "RogueAnchor",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 84,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "FerroByte25",
+    "linkTo": "StaticFox",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 93
+  },
+  {
+    "handle": "FenSable47",
+    "personaWith": "QuartzTrade56",
+    "personaSimilarity": 58
+  },
+  {
+    "handle": "QuartzTrade76",
+    "personaWith": "UmbraFracture",
+    "personaSimilarity": 85
+  },
+  {
+    "handle": "ShadowShard15",
+    "linkTo": "AshVault55",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 83,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "CinderCache32",
+    "personaWith": "FenSable47",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "CipherCircuit",
+    "linkTo": "StaticTrade",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 89,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "StaticSpindle38",
+    "linkTo": "RogueWarden19",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 88,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "OnyxCircuit98",
+    "linkTo": "FerroAnchor",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "RustByte15",
+    "linkTo": "NullRunner",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 92
+  },
+  {
+    "handle": "EmberSpindle93",
+    "linkTo": "SaltReaper",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "FerroByte25",
+    "linkTo": "AshMarket",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "WolfTrade78",
+    "linkTo": "SlateSable",
+    "linkType": "SAME_IP",
+    "linkConfidence": 75,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzSignal89",
+    "personaWith": "SilentReaper",
+    "personaSimilarity": 86
+  },
+  {
+    "handle": "RustByte15",
+    "linkTo": "WraithBeacon",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "OnyxCircuit98",
+    "linkTo": "OnyxDrift49",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 88
+  },
+  {
+    "handle": "TalonSpindle",
+    "linkTo": "PaleRoot62",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 92
+  },
+  {
+    "handle": "UmbraCache",
+    "linkTo": "WraithBeacon",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 92
+  },
+  {
+    "handle": "AshKey",
+    "linkTo": "AshAnchor66",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 82,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "AshByte",
+    "personaWith": "SlateReaper70",
+    "personaSimilarity": 84
+  },
+  {
+    "handle": "OnyxDrift49",
+    "linkTo": "RavenAnchor",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 73,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "RogueWarden19",
+    "linkTo": "VortexProxy26",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "CinderWarden2",
+    "personaWith": "RogueWarden19",
+    "personaSimilarity": 80
+  },
+  {
+    "handle": "OnyxMarket",
+    "personaWith": "FenNode94",
+    "personaSimilarity": 86
+  },
+  {
+    "handle": "SaltCache48",
+    "linkTo": "RogueAnchor",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 91,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "HollowWarden33",
+    "linkTo": "StaticSpindle38",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 80
+  },
+  {
+    "handle": "AshKey",
+    "personaWith": "UmbraCache",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "EmberSpindle93",
+    "personaWith": "HollowWarden33",
+    "personaSimilarity": 90
+  },
+  {
+    "handle": "StaticKey",
+    "linkTo": "PaleMarket97",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "OnyxCircuit98",
+    "linkTo": "CinderWarden2",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 85
+  },
+  {
+    "handle": "ShadowRunner53",
+    "linkTo": "RogueRelay3",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "OnyxReaper",
+    "linkTo": "WraithBeacon",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 78,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "SilentReaper",
+    "linkTo": "StaticFox27",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 85
+  },
+  {
+    "handle": "SilentReaper",
+    "linkTo": "AshByte",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "BasaltDrift53",
+    "personaWith": "OnyxMarket",
+    "personaSimilarity": 85
+  },
+  {
+    "handle": "OnyxRunner97",
+    "linkTo": "VellumTrade13",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 90,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "QuartzTrade56",
+    "linkTo": "RavenByte",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 85
+  },
+  {
+    "handle": "PaleShard13",
+    "linkTo": "GhostMarket",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "FerroAnchor",
+    "linkTo": "NullRunner",
+    "linkType": "SAME_IP",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "RogueRelay3",
+    "personaWith": "HollowWarden33",
+    "personaSimilarity": 70
+  },
+  {
+    "handle": "FenNode94",
+    "linkTo": "ShadowSpindle",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "QuartzTrade56",
+    "linkTo": "HollowTrade",
+    "linkType": "SAME_IP",
+    "linkConfidence": 82
+  },
+  {
+    "handle": "WraithBeacon",
+    "linkTo": "HollowTrade",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 95
+  },
+  {
+    "handle": "WraithBeacon",
+    "linkTo": "MarrowVault55",
+    "linkType": "SIMILAR_WRITING_STYLE",
+    "linkConfidence": 63
+  },
+  {
+    "handle": "RustByte15",
+    "personaWith": "EmberShard86",
+    "personaSimilarity": 90
+  },
+  {
+    "handle": "WraithBeacon",
+    "linkTo": "BasaltReaper43",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "StaticKey",
+    "linkTo": "NullLedger92",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "BasaltReaper43",
+    "personaWith": "NullRunner",
+    "personaSimilarity": 34
+  },
+  {
+    "handle": "HollowMarket34",
+    "linkTo": "OnyxWarden57",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 86,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "GrimVault",
+    "linkTo": "SlateSable",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "TalonLoop23",
+    "personaWith": "FenCache",
+    "personaSimilarity": 86
+  },
+  {
+    "handle": "RogueSignal74",
+    "linkTo": "AshAnchor66",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 85,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "TalonSpindle",
+    "linkTo": "SaltRoot",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 90
+  },
+  {
+    "handle": "HollowMarket34",
+    "linkTo": "OnyxRunner97",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 90,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzSpindle",
+    "linkTo": "OnyxRunner97",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 77,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "CipherCircuit",
+    "linkTo": "HollowTrade",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 84,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "CipherDrift91",
+    "personaWith": "FerroByte25",
+    "personaSimilarity": 74
+  },
+  {
+    "handle": "FerroByte25",
+    "linkTo": "FenCache",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "WraithBeacon",
+    "linkTo": "GrimVault",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "OnyxDrift49",
+    "personaWith": "WraithBeacon",
+    "personaSimilarity": 78
+  },
+  {
+    "handle": "ShadowShard",
+    "personaWith": "GrimNode25",
+    "personaSimilarity": 80
+  },
+  {
+    "handle": "RogueNode",
+    "personaWith": "HollowMarket34",
+    "personaSimilarity": 57
+  },
+  {
+    "handle": "TalonSpindle",
+    "linkTo": "PaleMarket97",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 88
+  },
+  {
+    "handle": "StaticRelay58",
+    "linkTo": "FenBishop97",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 81,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "RavenAnchor",
+    "linkTo": "StaticFox27",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 79,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "ShadowShard",
+    "linkTo": "ShadowWarden61",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 87,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "PaleShard13",
+    "linkTo": "NullRelay7",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "RavenAnchor",
+    "linkTo": "AshVault55",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 74,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "SlateRelay",
+    "linkTo": "RogueWarden18",
+    "linkType": "ASSOCIATED_WITH",
+    "linkConfidence": 76,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzSignal89",
+    "linkTo": "RogueRelay3",
+    "linkType": "POSTED_ON",
+    "linkConfidence": 41
+  },
+  {
+    "handle": "AshByte",
+    "linkTo": "CinderCache32",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 82
+  },
+  {
+    "handle": "FenNode94",
+    "linkTo": "SaltCache48",
+    "linkType": "SAME_IP",
+    "linkConfidence": 84
+  },
+  {
+    "handle": "BasaltDrift53",
+    "linkTo": "FerroByte25",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "DuskForge46",
+    "linkTo": "NullRelay7",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 83
+  },
+  {
+    "handle": "OnyxMarket",
+    "linkTo": "VortexCircuit39",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 91,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "ShadowRunner53",
+    "linkTo": "FrostWire",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "OnyxCache",
+    "linkTo": "CipherBishop",
+    "linkType": "SAME_IP",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "VortexSignal",
+    "linkTo": "AshVault55",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 97,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "SilentBishop73",
+    "linkTo": "RogueForge72",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 97
+  },
+  {
+    "handle": "TalonLoop23",
+    "linkTo": "PaleMarket97",
+    "linkType": "SHARED_WALLET",
+    "linkConfidence": 88
+  },
+  {
+    "handle": "PaleBishop",
+    "linkTo": "UmbraFracture",
+    "linkType": "RESOLVES_TO",
+    "linkConfidence": 58
+  },
+  {
+    "handle": "RogueWarden19",
+    "linkTo": "CinderWarden2",
+    "linkType": "SAME_IP",
+    "linkConfidence": 96
+  },
+  {
+    "handle": "SaltForge",
+    "linkTo": "GrimNode25",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 87,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "SaltRoot",
+    "linkTo": "SlateSable",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 91
+  },
+  {
+    "handle": "WraithMarket27",
+    "linkTo": "RavenByte",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 97,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "MarrowBeacon",
+    "linkTo": "HollowKey",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 91,
+    "linkFpRisk": "High"
+  },
+  {
+    "handle": "OnyxWarden25",
+    "personaWith": "TalonLoop23",
+    "personaSimilarity": 81
+  },
+  {
+    "handle": "CinderCache32",
+    "linkTo": "QuartzSpindle",
+    "linkType": "SAME_CERTIFICATE",
+    "linkConfidence": 83,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "QuartzSignal89",
+    "linkTo": "OnyxWarden57",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 90
+  },
+  {
+    "handle": "UmbraCache",
+    "linkTo": "GrimNode25",
+    "linkType": "SAME_IP",
+    "linkConfidence": 97
+  },
+  {
+    "handle": "OnyxCircuit98",
+    "linkTo": "SilentBishop73",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 89
+  },
+  {
+    "handle": "PaleBishop",
+    "linkTo": "AshMarket",
+    "linkType": "SAME_IP",
+    "linkConfidence": 86
+  },
+  {
+    "handle": "RogueSignal74",
+    "linkTo": "TalonSpindle",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 87,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "SaltRoot",
+    "personaWith": "OnyxMarket",
+    "personaSimilarity": 93
+  },
+  {
+    "handle": "BasaltDrift53",
+    "linkTo": "AshSignal",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 86
+  },
+  {
+    "handle": "StaticFox",
+    "linkTo": "FenSable47",
+    "linkType": "COMMON_CONTACT",
+    "linkConfidence": 91,
+    "linkFpRisk": "Medium"
+  },
+  {
+    "handle": "OnyxCache",
+    "personaWith": "OnyxWarden25",
+    "personaSimilarity": 82
+  },
+  {
+    "handle": "SilentReaper",
+    "linkTo": "AshAnchor66",
+    "linkType": "POSTED_ON",
+    "linkConfidence": 49
+  },
+  {
+    "handle": "EmberSpindle93",
+    "linkTo": "GhostMarket",
+    "linkType": "SHARED_INFRASTRUCTURE",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "UmbraCache",
+    "personaWith": "HollowTrade",
+    "personaSimilarity": 92
+  },
+  {
+    "handle": "OnyxCache",
+    "linkTo": "SaltReaper",
+    "linkType": "SAME_HANDLE",
+    "linkConfidence": 87
+  },
+  {
+    "handle": "NullRelay7",
+    "personaWith": "OnyxWarden25",
+    "personaSimilarity": 82
+  },
+  {
+    "handle": "HollowWarden33",
+    "personaWith": "StaticTrade",
+    "personaSimilarity": 84
+  },
+  {
+    "handle": "NullRunner",
+    "linkTo": "SilentReaper",
+    "linkType": "SHARED_PGP",
+    "linkConfidence": 93,
+    "linkFpRisk": "High"
+  }
+]
